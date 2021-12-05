@@ -1,0 +1,33 @@
+nav{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    height: 10%;
+}
+.App-logo {
+    height: 15vmin;
+    width: 15vw;
+    display: block;
+    pointer-events: none;
+    text-align: left;
+    
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.letra{
+    font-family: "Euphoria Script", cursive;
+}
+
+.menu{
+        background: rgb(187, 149, 162);
+        display: block;
+        width: 100vw;
+        padding-left: 20vw;
+        
+        
+
+
+}
+
