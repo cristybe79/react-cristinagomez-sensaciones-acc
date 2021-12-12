@@ -1,7 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from '../img/logo1.jpg'
 import CartWidget from '../CartWidget/CartWidget';
-import logo from '../img/logo1jpg.jpg'
+import './NavBar.css'
 
 
 const Menu = () => {
@@ -10,7 +11,8 @@ const Menu = () => {
         <nav class="menu navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-        <img src={logo} alt="logo" className="App-Logo"></img>
+            <div ><img className="App-logo" src={logo}  alt="logo" ></img></div>
+
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

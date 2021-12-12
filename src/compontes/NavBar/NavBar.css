@@ -3,7 +3,7 @@ nav{
     height: 10%;
 }
 .App-logo {
-    height: 35vmin;
+    height: 10vmin;
     display: block;
     pointer-events: none;
     text-align: left;
@@ -23,7 +23,8 @@ nav{
         background: rgb(187, 149, 162);
         display: block;
         width: 100vw;
-        height: 20vh;
+        height: 15vh;
+        padding-left: 3vw;
         
         
 

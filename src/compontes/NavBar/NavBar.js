@@ -1,6 +1,6 @@
 import React from 'react';
 import './NavBar.css';
-import Menu from './menu';
+import Menu from './Menu';
 
 
 
