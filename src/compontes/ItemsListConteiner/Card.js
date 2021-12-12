@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 // import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ItemCount from './ItemCount'
-import logoo from './img/logoo.jpg'
+import logoo from '../img/logoo.jpg'
 
 function CardUno() {
     return <>

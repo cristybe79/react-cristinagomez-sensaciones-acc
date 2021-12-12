@@ -3,7 +3,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import NavBar from './compontes/NavBar/NavBar';
-import ItemListConteiner from './compontes/ItemsListConteiner';
+import ItemListConteiner from './compontes/ItemsListConteiner/ItemsListConteiner';
 
 
 function App() {
