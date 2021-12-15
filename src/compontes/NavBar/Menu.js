@@ -10,7 +10,7 @@ const Menu = () => {
         
         <nav class="menu navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" >
             <div ><img className="App-logo" src={logo}  alt="logo" ></img></div>
 
         </a>
